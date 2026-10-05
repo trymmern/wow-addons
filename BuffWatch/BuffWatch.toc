@@ -1,0 +1,10 @@
+## Interface: 16001, 120100, 120105
+## Title: BuffWatch
+## Notes: A movable frame that shows your active buffs and the buffs you're missing.
+## Author: You
+## Version: 1.2.0
+## SavedVariables: BuffWatchDB
+
+BuffWatch.lua
+BuffData.lua
+Options.lua
